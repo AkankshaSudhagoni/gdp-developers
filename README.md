@@ -108,7 +108,7 @@ Client Team 2
 * [Prasanna Arla](https://github.com/PRASANNAARLA)
 * [Rohit Reddy Chandupatla](https://github.com/Rohitreddz)
 * [Sri Sathya Mamidala](https://github.com/srisathyamamidala)
-* [Akanksha Sudhagoni](https://github.com/S542046)
+* [Akanksha Sudhagoni](https://github.com/AkankshaSudhagoni)
 
 Client Team 3
 
